@@ -72,4 +72,6 @@ https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Com
 The Tyre & Axle Sub-Assembly combines the tyre, wheel rim, axle and related components into a single unit. This sub-assembly is then used in the final Wheel Loader assembly.
 
 15. ## lift Arm :
+https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Components/Lift%20Arm.png
+
 it is the heavy steel structural member mounted to the front of the machine that supports and moves the bucket or other attachments.
