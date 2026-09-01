@@ -12,6 +12,8 @@ https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Com
 The Rear Body forms the rear section of the wheel loader. It provides structural support for the machine and houses the main power and operator-supporting area. It is connected to the front body through the central frame/joint.
 
 3. ## Bucket:
+https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Components/Bucket.png
+
 The Bucket is the primary material-handling component of the wheel loader. It is used to scoop, lift, carry, and dump materials such as soil, sand, gravel, and construction debris.
 
 4. ## Tyre:
