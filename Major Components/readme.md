@@ -52,6 +52,8 @@ https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Com
 The Rocker Arm is an important linkage component between the boom mechanism and bucket mechanism. Its movement helps control the lifting and tilting of the bucket.
 
 11. ## Rocker Arm Rod:
+https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Components/Rocker%20Arm%20Rod.png
+
 The Rocker Arm Rod connects the rocker arm with the associated linkage. It transfers mechanical movement and helps maintain the required motion of the bucket mechanism.
 
 12. ## Connecting Rod:
