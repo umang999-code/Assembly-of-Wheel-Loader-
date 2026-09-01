@@ -42,6 +42,8 @@ https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Com
 The Boom Cylinder represents the hydraulic actuator used to raise and lower the loader boom. Hydraulic pressure produces linear movement of the cylinder, which operates the lifting mechanism.
 
 9. ## Boom Rod:
+https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Components/Boom%20Rod.png
+
 The Boom Rod is a connecting member of the lifting mechanism. It transfers movement and force from the hydraulic cylinder to the loader linkage.
 
 10. ## Rocker Arm:
