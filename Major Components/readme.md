@@ -32,6 +32,8 @@ The Wheel Rim is mounted inside the tyre and provides structural support to it. 
 The Axle Rod connects the wheels and provides support for the wheel assembly. It transfers mechanical loads between the wheels and the main body of the machine.
 
 8. ## Differential:
+https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Components/Differential.png
+
 The Differential is part of the wheel-drive system. It transfers rotational power to the wheels and allows the wheels to rotate at different speeds during turning.
 
 8. ## Boom Cylinder:
