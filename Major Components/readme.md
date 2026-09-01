@@ -43,5 +43,5 @@ Screws are used as fastening elements in the assembly. They help secure differen
 14. ## Tyre & Axle Sub-Assembly:
 The Tyre & Axle Sub-Assembly combines the tyre, wheel rim, axle and related components into a single unit. This sub-assembly is then used in the final Wheel Loader assembly.
 
-15. ## lift arm :
+15. ## lift Arm :
 it is the heavy steel structural member mounted to the front of the machine that supports and moves the bucket or other attachments.
