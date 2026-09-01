@@ -47,6 +47,8 @@ https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Com
 The Boom Rod is a connecting member of the lifting mechanism. It transfers movement and force from the hydraulic cylinder to the loader linkage.
 
 10. ## Rocker Arm:
+https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Components/Rocker%20Arm.png
+
 The Rocker Arm is an important linkage component between the boom mechanism and bucket mechanism. Its movement helps control the lifting and tilting of the bucket.
 
 11. ## Rocker Arm Rod:
