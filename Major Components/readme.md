@@ -43,5 +43,5 @@ Screws are used as fastening elements in the assembly. They help secure differen
 14. ## Tyre & Axle Sub-Assembly:
 The Tyre & Axle Sub-Assembly combines the tyre, wheel rim, axle and related components into a single unit. This sub-assembly is then used in the final Wheel Loader assembly.
 
-15. ## Complete Wheel Loader Assembly:
-The Complete Wheel Loader Assembly is the final combination of all individual parts and sub-assemblies. It represents the complete CAD model of the wheel loader and demonstrates the relationship between the chassis, wheels, lifting mechanism, hydraulic cylinder, and bucket.
+15. ## lift arm :
+it is the heavy steel structural member mounted to the front of the machine that supports and moves the bucket or other attachments.
