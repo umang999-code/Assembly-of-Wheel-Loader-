@@ -17,6 +17,8 @@ https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Com
 The Bucket is the primary material-handling component of the wheel loader. It is used to scoop, lift, carry, and dump materials such as soil, sand, gravel, and construction debris.
 
 4. ## Tyre:
+https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Components/Tyre.png
+
 The Tyres provide contact between the machine and the ground. They provide traction, stability, and movement to the wheel loader.
 
 5. ## Wheel Rim:
