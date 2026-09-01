@@ -37,6 +37,8 @@ https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Com
 The Differential is part of the wheel-drive system. It transfers rotational power to the wheels and allows the wheels to rotate at different speeds during turning.
 
 8. ## Boom Cylinder:
+https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Components/boom%20cylinder.png
+
 The Boom Cylinder represents the hydraulic actuator used to raise and lower the loader boom. Hydraulic pressure produces linear movement of the cylinder, which operates the lifting mechanism.
 
 9. ## Boom Rod:
