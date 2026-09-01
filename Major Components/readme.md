@@ -7,6 +7,8 @@ The Wheel Loader assembly is made up of several mechanical components. Each comp
 The Front Body is the main structural component at the front of the wheel loader. It supports the loader mechanism, including the boom, rocker arm, hydraulic cylinder, and bucket. It also provides the connection between the front frame and the rear body.
 
 2. ## Rear Body:
+https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Components/Rear%20Body.png
+
 The Rear Body forms the rear section of the wheel loader. It provides structural support for the machine and houses the main power and operator-supporting area. It is connected to the front body through the central frame/joint.
 
 3. ## Bucket:
