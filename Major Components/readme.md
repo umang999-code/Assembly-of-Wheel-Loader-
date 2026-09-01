@@ -67,6 +67,8 @@ https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Com
 Screws are used as fastening elements in the assembly. They help secure different components and maintain proper connections between the mechanical parts.
 
 14. ## Tyre & Axle Sub-Assembly:
+https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Components/Sub%20Assembly%20of%20wheel.png
+
 The Tyre & Axle Sub-Assembly combines the tyre, wheel rim, axle and related components into a single unit. This sub-assembly is then used in the final Wheel Loader assembly.
 
 15. ## lift Arm :
