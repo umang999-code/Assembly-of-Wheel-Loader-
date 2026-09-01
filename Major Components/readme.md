@@ -22,6 +22,8 @@ https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Com
 The Tyres provide contact between the machine and the ground. They provide traction, stability, and movement to the wheel loader.
 
 5. ## Wheel Rim:
+https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Components/Rim.png
+
 The Wheel Rim is mounted inside the tyre and provides structural support to it. The rim is connected to the axle/wheel assembly and helps transfer the driving force to the tyre.
 
 6. ## Axle Rod:
