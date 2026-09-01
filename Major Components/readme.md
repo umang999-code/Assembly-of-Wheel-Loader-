@@ -57,6 +57,8 @@ https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Com
 The Rocker Arm Rod connects the rocker arm with the associated linkage. It transfers mechanical movement and helps maintain the required motion of the bucket mechanism.
 
 12. ## Connecting Rod:
+https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Components/Connecting%20Rod.png
+
 The Connecting Rod provides a mechanical connection between moving components of the loader mechanism. It helps transfer motion and maintain proper linkage movement.
 
 13. ## Screw:
