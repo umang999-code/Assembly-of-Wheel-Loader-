@@ -17,9 +17,11 @@ The Tyres provide contact between the machine and the ground. They provide tract
 The Wheel Rim is mounted inside the tyre and provides structural support to it. The rim is connected to the axle/wheel assembly and helps transfer the driving force to the tyre.
 
 6. ## Axle Rod:
+   https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Components/Axle%20Rod.png
+   
 The Axle Rod connects the wheels and provides support for the wheel assembly. It transfers mechanical loads between the wheels and the main body of the machine.
 
-7. ## Differential:
+8. ## Differential:
 The Differential is part of the wheel-drive system. It transfers rotational power to the wheels and allows the wheels to rotate at different speeds during turning.
 
 8. ## Boom Cylinder:
