@@ -62,6 +62,8 @@ https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Com
 The Connecting Rod provides a mechanical connection between moving components of the loader mechanism. It helps transfer motion and maintain proper linkage movement.
 
 13. ## Screw:
+https://github.com/umang999-code/Assembly-of-Wheel-Loader-/blob/main/Major%20Components/Screw.png
+
 Screws are used as fastening elements in the assembly. They help secure different components and maintain proper connections between the mechanical parts.
 
 14. ## Tyre & Axle Sub-Assembly:
