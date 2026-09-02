@@ -1,5 +1,7 @@
 # 🔗 Download Complete Wheel Loader CAD Files
 
+# Please ensure that all the parts with assembly file are download in a single folder to open the assembly properly in solidworks:
+
 The complete Wheel Loader CAD assembly is provided in SOLIDWORKS format for easy access, editing, modification, and further CAD development.
 
 ## 🧩 Included Files:
