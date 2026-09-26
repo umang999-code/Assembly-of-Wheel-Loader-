@@ -23,7 +23,7 @@ The download package contains individual SOLIDWORKS Part Files (.SLDPRT) includi
 - lift Arm
 - Wheel rim
 - Bolts and Fasteners
-- Other supporting components
+- Rocker Arm Cylinder
 
 ## ⚙️ Assembly File (.SLDASM)
 
